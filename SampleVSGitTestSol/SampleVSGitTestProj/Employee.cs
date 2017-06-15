@@ -8,6 +8,6 @@ namespace SampleVSGitTestProj
 {
     public class Employee
     {
-        string firstName = string.Empty;
+        string firstName = "pqr";
     }
 }
