@@ -10,6 +10,7 @@ namespace SampleVSGitTestProj
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git! You are awesome!");
             Console.WriteLine("Hello Pluralsight! A good teacher!");
         }
     }
