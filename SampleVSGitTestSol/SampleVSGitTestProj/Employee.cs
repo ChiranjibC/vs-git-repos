@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SampleVSGitTestProj
 {
-    class Employee
+    public class Employee
     {
+        string firstName = string.Empty;
     }
 }
